@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54003782380",
+    "project_id": "testing-d325a",
+    "storage_bucket": "testing-d325a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54003782380:android:f65974af1d06bcd4b40bc9",
+        "android_client_info": {
+          "package_name": "com.gabriellarthur.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54003782380-tkifbfpkes9ffv0f4ddbq64a7rg35ps2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58-rfdxtVdr3Ip0DuMuD5DRrDOqW8cXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54003782380-tkifbfpkes9ffv0f4ddbq64a7rg35ps2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
